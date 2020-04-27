@@ -1,7 +1,5 @@
-
-
 # Project Title
-Read-me-generator
+Readme-generator
 
 
 
@@ -17,7 +15,7 @@ Read-me-generator
 
 * [Contributing](#contributing)
 
-* [Usage](#usage)
+* [Usage](#usage information)
 
 * [Contact](#contact)
 
@@ -25,7 +23,7 @@ Read-me-generator
 
 
 # Description
-It generates readmes for ease of use.
+It generates readmes.
 
 
 
@@ -46,7 +44,7 @@ This repository uses a MIT license.
 
 
 # Contributing
-Contact me for more info
+Contact me for info.
 
 
 
@@ -60,7 +58,7 @@ Questions about the repo or project? Contact at	https://github.com/dolinay1 or d
 
 [![GitHub followers](https://img.shields.io/github/followers/dolinay1?style=social)](https://github.com/dolinay1)
 
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dolinay1/Read-me-generator)](https://github.com/dolinay1/Readme-generator/commits/master)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dolinay1/Readme-generator)](https://github.com/dolinay1/Readme-generator/commits/master)
 
 ![Profile_pic](https://avatars1.githubusercontent.com/u/43730139?s=400&u=2a4d25d374a9e32196211535a9b4834b2ba9f149&v=4)
 
