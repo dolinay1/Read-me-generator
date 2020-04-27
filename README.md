@@ -15,6 +15,8 @@ Read-me-generator
 
 * [License](#license)
 
+* [Contributing](#contributing)
+
 * [Usage](#usage)
 
 * [Contact](#contact)
@@ -43,18 +45,19 @@ This repository uses a MIT license.
 
 
 
-# How to contribute
+# Contributing
 Contact me for more info
 
 
 
-# Usage Information
+# Usage
 nothing in particular
 
 
 
 # Contact
 Questions about the repo or project? Contact at	https://github.com/dolinay1 or directly by email at dolinay1@gmail.com.
+
 [![GitHub followers](https://img.shields.io/github/followers/dolinay1?style=social)](https://github.com/dolinay1)
 
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/dolinay1/Read-me-generator)](https://github.com/dolinay1/Readme-generator/commits/master)
