@@ -15,7 +15,7 @@ Readme-generator
 
 * [Contributing](#contributing)
 
-* [Usage](#usage information)
+* [Usage](#usage)
 
 * [Contact](#contact)
 
