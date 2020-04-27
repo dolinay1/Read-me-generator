@@ -23,7 +23,7 @@ Readme-generator
 
 
 # Description
-This readme was created using the Readme Generator application. The user is asked a series of questions on what information they would like to add to the Readme. The application then creates a formatted Readme for the user based on the information the user entered for each category. A table of contents is added to allow easier navigation of the Readme. At the bottom of the Readme a contact section is added which includes the users email, badges relating to the user's Github profile and current repo's commit history, and a profile picture. The application was created entirely using Node JS. One small bug with the commit history badge is it says commit activity is invalid, but it does connect to the proper repo.
+This readme was created using the Readme Generator application. The user is asked a series of questions on what information they would like to add to the Readme. The application then creates a formatted Readme for the user based on the information the user entered for each category. A table of contents is added to allow easier navigation of the Readme. At the bottom of the Readme a contact section is added which includes the users email, badges relating to the user's Github profile and current repo's commit history, and a profile picture. The application was created entirely using Node JS. One small bug with the commit history badge is that it says invalid even though it functions properly.
 
 
 
